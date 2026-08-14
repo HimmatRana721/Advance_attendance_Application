@@ -4,8 +4,7 @@
 [![React Native](https://img.shields.io/badge/Frontend-React%20Native%20%2F%20Expo-61DAFB.svg)](https://expo.dev/)
 [![Cloudflare Workers](https://img.shields.io/badge/Backend-Cloudflare%20Workers-F38020.svg)](https://workers.cloudflare.com/)
 [![Cloudflare D1](https://img.shields.io/badge/Database-Cloudflare%20D1%20%28SQLite%29-0A85EA.svg)](https://developers.cloudflare.com/d1/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
+git 
 An enterprise-grade, cross-platform **Employee Attendance Management & Time-Tracking System** engineered with a **React Native (Expo)** mobile application and a high-performance **Cloudflare Workers** serverless API backend running **Cloudflare D1 (SQLite at the Edge)**.
 
 Designed for modern remote/hybrid workforces, this system eliminates manual register logging through dynamic/static **QR Code Scanning**, automated **Timezone Calculation (`UTC+5:45` Nepal Standard Time)**, real-time status evaluation, automated shift cleanup, and a multi-role administrative workspace.
