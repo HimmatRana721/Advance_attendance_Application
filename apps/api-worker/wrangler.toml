@@ -1,6 +1,6 @@
-name = "attendance-api"
-main = "src/index.js"
-compatibility_date = "2024-04-01"
+name = "atten-worker"
+compatibility_date = "2026-11-17"
+main = "src/index.ts"
 
 [[d1_databases]]
 binding = "DB"
